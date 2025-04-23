@@ -39,5 +39,4 @@ I'm transitioning into DevOps with a background in web development and automatio
 
 ## 🔗 Links
 - 🌐 [My Resume Site](https://crbelik.github.io/belik-resume)
-- 💻 [My GitHub Projects](https://github.com/crbelik)
 - 📫 Reach me anytime on GitHub or [LinkedIn](www.linkedin.com/in/collin-belik) 
