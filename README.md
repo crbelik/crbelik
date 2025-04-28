@@ -43,5 +43,5 @@ I'm transitioning into DevOps with a background in web development and cloud aut
 
 ## 🔗 Links
 - 🌐 [My Resume Site](https://crbelik.github.io/belik-resume)
-- 📫 Reach me anytime on [LinkedIn](www.linkedin.com/in/collin-belik)
+- 📫 Reach me anytime on [LinkedIn](https://www.linkedin.com/in/collin-belik)
 - 📧 Email me at [Collin.Belik@gmail.com](mailto:Collin.Belik@gmail.com)
